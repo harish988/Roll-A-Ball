@@ -1,0 +1,28 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   8.15.10.2900
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
+Platform assembly: E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Project&Papaer Presentation\AR\Roll A Ball\Roll A Ball\Build\RollaBall (Windows)_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 40Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 70.942680 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a50 -> priority: 1 
+  Thread -> id: c3c -> priority: 1 
